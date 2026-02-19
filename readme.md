@@ -24,7 +24,8 @@ A simple student registration system with photo upload built using:
 
 ```bash
 sudo apt update
-sudo apt install apache2 mysql-server php libapache2-mod-php php-mysql -y
+sudo apt install apache2 mariadb-server php libapache2-mod-php php-mysql -y
+
 
 sudo systemctl restart apache2
 

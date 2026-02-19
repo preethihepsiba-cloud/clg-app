@@ -1,0 +1,5 @@
+# Ignore uploads folder
+uploads/
+
+# But keep the folder structure
+!uploads/.gitkeep
